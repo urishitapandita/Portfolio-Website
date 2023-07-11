@@ -5,4 +5,4 @@ CSS Styling: CSS is applied to enhance the website's appearance by controlling e
 
 The website is designed to be responsive, adapting to different devices and screen sizes
 
-# Live Website - https://glowing-piroshki-475064.netlify.app/
+# Live Website - https://urishitadev.netlify.app/
